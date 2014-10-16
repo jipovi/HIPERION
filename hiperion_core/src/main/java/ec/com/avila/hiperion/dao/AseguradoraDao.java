@@ -26,7 +26,7 @@ public interface AseguradoraDao {
 	 * 
 	 * <b> permite guardar los registros en la tabla Aseguradora </b>
 	 * <p>
-	 * [Author: Paul Jimenez, Date: Aug 10, 2014]
+	 * [Author: Paul Jimenez, Date: Aug 11, 2014]
 	 * </p>
 	 * 
 	 * @param aseguradora
